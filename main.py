@@ -1,7 +1,3 @@
-git remote add origin https://github.com/Ghavacode/spotify.git
-git branch -M main
-git push -u origin main
-
 class CreatePlaylist:
 
     def __init__(self):
